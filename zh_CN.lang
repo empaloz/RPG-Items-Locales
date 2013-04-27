@@ -1,4 +1,4 @@
-#Generated on 2013-04-20 18:13:26
+#Generated on 2013-04-27 15:27:26
 command.info.amplifier=效果等级
 command.info.armour=护甲
 command.info.burntime=燃烧时间
@@ -103,7 +103,7 @@ command.rpgitem.unbreaking.full=给 @[物品]# 添加耐久技能, @[等级]# �
 command.rpgitem.worldguard=切换world guard保护模式. 启用时会阻止RPG Items的物品在非PVP区使用
 message.armour.get=物品 '%s' 护甲为 '%d%%'
 message.armour.set=物品 '%s' 护甲已设置为 '%d%%'
-message.command.info=更详细帮助信息请查看bukkitdev页面, 或输入/rpgitem help [关键词]
+message.command.info=更详细帮助信息请查看bukkitdev页面, 或输入/rpgitem help [关键词] 插件汉化by wolski from mcbbs.net
 message.command.usage=指令用法: /%s (%s)
 message.cooldown=冷却时间还没有结束, 请等待 %.1f 秒
 message.create.fail=该物品名已存在
