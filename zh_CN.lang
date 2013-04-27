@@ -1,4 +1,4 @@
-#Generated on 2013-04-20 18:13:26
+#Generated on 2013-04-27 15:27:26
 command.info.amplifier=效果等级
 command.info.armour=护甲
 command.info.burntime=燃烧时间
@@ -103,7 +103,7 @@ command.rpgitem.unbreaking.full=给 @[物品]# 添加耐久技能, @[等级]# �
 command.rpgitem.worldguard=切换world guard保护模式. 启用时会阻止RPG Items的物品在非PVP区使用
 message.armour.get=物品 '%s' 护甲为 '%d%%'
 message.armour.set=物品 '%s' 护甲已设置为 '%d%%'
-message.command.info=更详细帮助信息请查看bukkitdev页面, 或输入/rpgitem help [关键词]
+message.command.info=更详细帮助信息请查看bukkitdev页面, 或输入/rpgitem help [关键词] 插件汉化by wolski from mcbbs.net
 message.command.usage=指令用法: /%s (%s)
 message.cooldown=冷却时间还没有结束, 请等待 %.1f 秒
 message.create.fail=该物品名已存在
@@ -170,3 +170,20 @@ power.teleport=传送 %d 格 (%.1f 秒冷却)
 power.tntcannon=发射 TNT (%.1f 秒冷却时间)
 power.unbreakable=不毁
 power.unbreaking=耐久 %d
+#2.7
+command.rpgitem.removerecipe=已删除 @[物品]# 的合成表
+command.rpgitem.recipe=已设置 @[物品]# 的合成表
+message.recipe.removed=合成表已移除
+message.error.only.player=这个指令只能由游戏中的玩家执行
+message.recipe.1=不做变动. 槽位留空
+message.recipe.2=如果想自定义合成表
+message.recipe.3=把物品置于空的地方
+message.recipe.4=以你所要的摆放形状
+message.recipe.5=进行放置
+command.rpgitem.drop=使 @[物品]# 一定几率从某个 @[实体类型]# 上掉落. 0% 表示不会掉落
+command.rpgitem.drop.set=设置 @[物品]# 从某个 @[实体类型]# 的 @[掉落几率]#%. 0% 表示不会掉落
+message.skyhook.fail=你没有钩到任何东西
+power.skyhook=钩到指定方块
+power.potiontick=持有/穿戴时给予效果 %s %d
+command.rpgitem.skyhook=给 @[物品]#添加天钩技能. 天钩技能允许使用者钩到指定 @[材质]# 并上升一定 @[距离]#
+command.rpgitem.potiontick=给 @[物品]# 添加被动效果加成. 当玩家手持或穿戴该 @[物品]# 时, 给予玩家指定 @[等级]# 的 @[药水效果]#
