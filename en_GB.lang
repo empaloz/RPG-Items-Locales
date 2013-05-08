@@ -187,3 +187,10 @@ power.skyhook=Hooks onto a sky rail
 power.potiontick=Gives %s %d while in use
 command.rpgitem.skyhook=Adds the skyhook power to @[Item]#. The skyhook power will allow the user to hook on to @[Material]# up to @[Distance]# blocks away
 command.rpgitem.potiontick=Adds the potiontick power to @[Item]#. The potiontick power will give the welder of the @[Item]# @[Effect]# level @[Amplifier]# while held/worn
+#2.9
+command.info.durability=Durability
+command.rpgitem.durability=Sets the durability for the item. The durability is the number of times the item can be used to attack, block damage(armour) or mine
+command.rpgitem.durability.infinite=Sets the durability to infinite. This means the item should never break
+command.rpgitem.durability.togglebar=Toggles the display of the tooltip based durability bar
+message.durability.change=Durability changed
+message.durability.toggle=Durability bar toggled
