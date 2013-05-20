@@ -194,3 +194,11 @@ command.rpgitem.durability.infinite=Sets the durability to infinite. This means 
 command.rpgitem.durability.togglebar=Toggles the display of the tooltip based durability bar
 message.durability.change=Durability changed
 message.durability.toggle=Durability bar toggled
+#3.1
+command.rpgitem.giveperms=Toggles give requiring permissions
+message.giveperms.true=Give now requires permissions
+message.giveperms.false=Give now does not require permissions
+message.give.ok=You were given %s
+message.give.to=Gave %s to %s
+message.drop.get=The chance that '%s' will drop from '%s' is %.2f%%
+message.drop.set=The chance that '%s' will drop from '%s' was set to %.2f%%
