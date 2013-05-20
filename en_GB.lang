@@ -202,3 +202,4 @@ message.give.ok=You were given %s
 message.give.to=Gave %s to %s
 message.drop.get=The chance that '%s' will drop from '%s' is %.2f%%
 message.drop.set=The chance that '%s' will drop from '%s' was set to %.2f%%
+message.print.durability=Max durability: %d
