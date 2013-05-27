@@ -187,3 +187,19 @@ power.skyhook=钩到指定方块
 power.potiontick=持有/穿戴时给予效果 %s %d
 command.rpgitem.skyhook=给 @[物品]#添加天钩技能. 天钩技能允许使用者钩到指定 @[材质]# 并上升一定 @[距离]#
 command.rpgitem.potiontick=给 @[物品]# 添加被动效果加成. 当玩家手持或穿戴该 @[物品]# 时, 给予玩家指定 @[等级]# 的 @[药水效果]#
+#2.9
+command.info.durability=耐久度
+command.rpgitem.durability=给物品设置耐久度. 此耐久度可用来设定攻击, 抵消伤害(护甲),  挖矿的次数
+command.rpgitem.durability.infinite=设置耐久度为无限. 这意味着物品不会损毁
+command.rpgitem.durability.togglebar=切换耐久度的提示框
+message.durability.change=耐久度已更改
+message.durability.toggle=耐久提示框已切换
+#3.1
+command.rpgitem.giveperms=正给予所需权限
+message.giveperms.true=现已给予所需权限
+message.giveperms.false=不需要权限
+message.give.ok=你已被给予 %s
+message.give.to=给予 %s 到 %s
+message.drop.get='%s' 从 '%s' 的掉落几率为 %.2f%%
+message.drop.set='%s' 从 '%s' 的掉落几率已设置为 %.2f%%
+message.print.durability=最大耐久度: %d
